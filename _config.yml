@@ -9,16 +9,16 @@ theme: jekyll-theme-chirpy
 lang: zh
 
 # Change to your timezone › https://zones.arilyn.cc
-timezone:
+timezone:Asia/Shanghai
 
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: 真香的博客 # the main title
+title: 真香 # the main title
 
 tagline: A text-focused Jekyll theme # it will display as the subtitle
 
-description: >- # used by seo meta and the atom feed
+description: SCUT人工智能在读，记录编程学习、课程思考 # used by seo meta and the atom feed
   A minimal, responsive and feature-rich Jekyll theme for technical writing.
 
 # Fill in the protocol & hostname for your site.
@@ -34,12 +34,11 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@domain.com # change to your email address
+  name: jason-zhenxiang
+  email: zhenxiangishere@qq.com # change to your email address
   links:
     # The first element serves as the copyright owner's link
-    - https://twitter.com/username # change to your Twitter homepage
-    - https://github.com/username # change to your GitHub homepage
+    - https://github.com/jason-zhenxiang # change to your GitHub homepage
     # Uncomment below to add more social links
     # - https://www.facebook.com/username
     # - https://www.linkedin.com/in/username
