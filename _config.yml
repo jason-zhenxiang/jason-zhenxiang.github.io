@@ -18,8 +18,7 @@ title: 真香 # the main title
 
 tagline: A text-focused Jekyll theme # it will display as the subtitle
 
-description: SCUT人工智能在读，记录编程学习、课程思考 # used by seo meta and the atom feed
-  A minimal, responsive and feature-rich Jekyll theme for technical writing.
+description: SCUT人工智能在读，记录编程学习、课程思考
 
 # Fill in the protocol & hostname for your site.
 # E.g. 'https://username.github.io', note that it does not end with a '/'.
