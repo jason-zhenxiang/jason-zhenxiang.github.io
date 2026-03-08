@@ -2,17 +2,18 @@
 
 - type: github
   icon: "fab fa-github"
-
-- type: twitter
-  icon: "fa-brands fa-x-twitter"
+  
+- type: Bilibili
+  icon: "fab fa-bilibili"
+  link: "https://space.bilibili.com/397829152?spm_id_from=333.1007.0.0"
+    
+- type: xiaohongshu
+  icon: "fas fa-book-open"   # 用“书本”图标替代，也可换其他喜欢的图标
 
 - type: email
   icon: "fas fa-envelope"
   noblank: true # open link in current tab
 
-- type: rss
-  icon: "fas fa-rss"
-  noblank: true
 # Uncomment and complete the url below to enable more contact options
 #
 # - type: mastodon
