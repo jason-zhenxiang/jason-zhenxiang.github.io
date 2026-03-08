@@ -2,17 +2,17 @@
 #  Icons from <https://fontawesome.com/>
 
 platforms:
-  - type: Twitter
-    icon: "fa-brands fa-square-x-twitter"
-    link: "https://twitter.com/intent/tweet?text=TITLE&url=URL"
+  # - type: Twitter
+  #   icon: "fa-brands fa-square-x-twitter"
+  #   link: "https://twitter.com/intent/tweet?text=TITLE&url=URL"
 
-  - type: Facebook
-    icon: "fab fa-facebook-square"
-    link: "https://www.facebook.com/sharer/sharer.php?title=TITLE&u=URL"
+  # - type: Facebook
+  #   icon: "fab fa-facebook-square"
+  #   link: "https://www.facebook.com/sharer/sharer.php?title=TITLE&u=URL"
 
-  - type: Telegram
-    icon: "fab fa-telegram"
-    link: "https://t.me/share/url?url=URL&text=TITLE"
+  # - type: Telegram
+  #   icon: "fab fa-telegram"
+  #   link: "https://t.me/share/url?url=URL&text=TITLE"
 
   # Uncomment below if you need to.
   #
@@ -20,9 +20,17 @@ platforms:
   #   icon: "fab fa-linkedin"
   #   link: "https://www.linkedin.com/feed/?shareActive=true&shareUrl=URL"
   #
-  # - type: Weibo
-  #   icon: "fab fa-weibo"
-  #   link: "https://service.weibo.com/share/share.php?title=TITLE&url=URL"
+  - type: Weibo
+    icon: "fab fa-weibo"
+    link: "https://weibo.com/u/6589243200"
+
+  - type: Bilibili
+    icon: "fab fa-bilibili"
+    link: "https://space.bilibili.com/397829152?spm_id_from=333.1007.0.0"
+    
+  - type: xiaohongshu
+    icon: "fas fa-book-open"   # 用“书本”图标替代，也可换其他喜欢的图标
+    url: "https://www.xiaohongshu.com/user/profile/5b7f9986d72b63000171afe2"  # 替换为你的小红书主页链接
   #
   # - type: Mastodon
   #   icon: "fa-brands fa-mastodon"
