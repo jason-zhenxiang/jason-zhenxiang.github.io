@@ -5,10 +5,11 @@
   
 - type: Bilibili
   icon: "fab fa-bilibili"
-  link: "https://space.bilibili.com/397829152?spm_id_from=333.1007.0.0"
+  url: "https://space.bilibili.com/397829152?spm_id_from=333.1007.0.0"
     
 - type: xiaohongshu
-  icon: "fas fa-book-open"   # 用“书本”图标替代，也可换其他喜欢的图标
+  icon: "fas fa-book-open"   
+  url: "https://www.xiaohongshu.com/user/profile/5b7f9986d72b63000171afe2"
 
 - type: email
   icon: "fas fa-envelope"
